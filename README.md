@@ -68,7 +68,7 @@ Python, Google Colab, NVIDIA T4 GPU, pandas, NumPy, spaCy, Hugging Face Transfor
 
 
 Notebooks:
-1. NB01_Data_Collection.ipynb — Scraping, cleaning, and sentence segmentation
-2. NB02-Aspect Extraction.ipynb — Aspect classification (BART + keyword layer)
-3. NB03_Sentiment_Scoring.ipynb — RoBERTa sentiment scoring
-4. NB04_Competitive_Analysis.ipynb — Helpfulness weighting, Must-Win scoring, final aggregation
+1. NB01_Data_Collection.ipynb : Scraping, cleaning, and sentence segmentation
+2. NB02-Aspect Extraction.ipynb : Aspect classification (BART + keyword layer)
+3. NB03_Sentiment_Scoring.ipynb : RoBERTa sentiment scoring
+4. NB04_Competitive_Analysis.ipynb : Helpfulness weighting, Must-Win scoring, final aggregation
